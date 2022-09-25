@@ -25,7 +25,7 @@ Lista de Tabelas utilizadas:
 - Tabela de "Envio" para verificar os pedidos em sua situação de entrega, se a remessa tenha esta em estado de produção, enviado, ou entregue.
 
 
-#SQL SCRIPT 
+#  SQL SCRIPT ![(Visualizar)](https://github.com/Muamm4/DB-Ecommerce/blob/main/e_commerce.sql)
 
 ##Estruturação do database sofreu alterações
 
